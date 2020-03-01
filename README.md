@@ -1,9 +1,11 @@
-# What it does, if you don't want use the script you can do it like this line by line :
+# What it dos, if you don't want use the script you can do it like this line by line :
 # GLPI_Installation-Script
 Script d'installation de GLPI pour Centos7 with SSH connection, it uses rpm Remi repo.
 # Configuration de GLPI sur Centos7 :
-# OS : CENTOS 7 / Fedora 30 / RHEL 7
-# Ajout des repos Epel et MariaDB :
+OS : CENTOS 7 / Fedora 30 / RHEL 7
+
+
+# Add repos Epel et MariaDB :
 
 $ sudo yum -y update
 $ sudo yum install -y epel-release
