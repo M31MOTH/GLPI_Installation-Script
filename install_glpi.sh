@@ -10,7 +10,7 @@
 # Retourne:
 #   0: OK
 #   1: 
-# Auteur:
+# Auteur: Garcia Paco
 # Created: Thu 27 Jun 2019 06:05:14 PM CEST
 # Updated: Tue 02 Jul 2019 08:59:38 AM CEST
 ################################################################################
